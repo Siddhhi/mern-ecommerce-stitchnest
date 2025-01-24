@@ -1,3 +1,3 @@
 React + vite based project 
 
-Full Stack (<MongoDB, Express, React, Node js
+Full Stack (<MongoDB, Express, React, Node js>)
