@@ -1,4 +1,5 @@
-# StitchNest - Crochet Products E-commerce Website.
+# StitchNest - Crochet Products E-commerce Website
+
 
 **StitchNest** is a full-featured e-commerce platform dedicated to high-quality, handmade crochet products. Customers can explore a range of unique crochet items, add them to their cart, and make secure purchases. StitchNest offers a powerful admin dashboard for managing products, orders, and users. Built with the MERN stack (MongoDB, Express, React, and Node.js), StitchNest integrates Stripe for seamless and secure payment processing.
 
